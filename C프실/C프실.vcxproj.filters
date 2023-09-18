@@ -15,7 +15,40 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C프실.cpp">
+    <ClCompile Include="생년월일%282000년대생%29.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="생년월일%281900년대생포함%29.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="운동시간계산(1).c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="운동시간계산(2).c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="회사도착시간계산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="윤년계산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자3개중에서최댓값구하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자5개중에서최댓값구하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="학점산출.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="대소문자구별.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="음식주문프로그램.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="요일구하기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
