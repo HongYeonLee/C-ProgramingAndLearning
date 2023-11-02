@@ -1,0 +1,4 @@
+﻿  (실습11)사용자가원하는한계속한줄문자열입출력.c
+C:\Users\user\source\repos\CPL\CPL ch6-2\CPL ch6-2\(실습11)사용자가원하는한계속한줄문자열입출력.c(15,3): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\CPL\CPL ch6-2\CPL ch6-2\(실습11)사용자가원하는한계속한줄문자열입출력.c(16,12): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CPL ch6-2.vcxproj -> C:\Users\user\source\repos\CPL\CPL ch6-2\x64\Debug\CPL ch6-2.exe

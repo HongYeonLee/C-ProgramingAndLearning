@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="%28예제%29문자열의입출력예제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28예제%29문자배열의초기화.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28예제%29문자열복사.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28예제%29문자열의길이구하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28예제%29문자열비교.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28예제%29문자열비교2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28예제%29문자열연결.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28예제%29문자열배열의선언,사용예제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28예제%29scanf를사용한문자열입력예제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28실습1%29문자열비교하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28실습2%29가나다순출력하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28실습3-1%29학생확인프로그램.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28실습3-2%29학생확인프로그램.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28실습4%29여러문자열읽어저장하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28실습5%29학생 명단 읽고 쓰기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28실습6%29명단에서학생이름찾기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28실습7%29학생명단정렬하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28실습8%29사용자가원하는계속두단어입력받아비교.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28실습9%29한줄문자열에서공백문자제거.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28실습10%29한줄문자열에나타난패턴조사.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28실습11%29사용자가원하는한계속한줄문자열입출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
