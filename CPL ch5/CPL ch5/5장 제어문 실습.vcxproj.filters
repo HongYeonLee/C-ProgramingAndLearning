@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="실습1특정구간내의짝수출력.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습2사용자지정구간낸의홀수출력.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습3한줄에5개씩출력.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습4줄바꾸어출력.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="참고2c언어의문자.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="참고3문자의출력.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습5영어알파벳과숫자를번갈아출력.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습6한행에영어1글자와숫자7개출력.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습7문자와숫자섞어출력.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습8격자무늬출력.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="참고5다양한크기의정사각형출력.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="참고6다양한크기의직각삼각형출력.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습9다양한크기의정사각형과직각삼각형출력1.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습9무한while문과switch문.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습10제곱의합.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습11목표원리금을얻기위한기간계산.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습12복리와단리비교.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습13계좌잔고가없어지는게걸리는연수계싼.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습147의배수가아닌숫자의합.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습15소수판별하기.c">
+      <Filter>소스파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
