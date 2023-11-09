@@ -1,4 +1,0 @@
-﻿  (실습7) 포인터를 사용하여 배열정렬하기.c
-C:\Users\cse_223\source\repos\CPL ch 9\CPL ch 9\(실습7) 포인터를 사용하여 배열정렬하기.c(16,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\cse_223\source\repos\CPL ch 9\CPL ch 9\(실습7) 포인터를 사용하여 배열정렬하기.c(15,7): warning C4101: 'GR' :참조되지 않은 지역 변수입니다.
-  CPL ch 9.vcxproj -> C:\Users\cse_223\source\repos\CPL ch 9\x64\Debug\CPL ch 9.exe
