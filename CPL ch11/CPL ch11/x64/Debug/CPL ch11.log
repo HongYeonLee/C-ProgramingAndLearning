@@ -1,3 +1,0 @@
-﻿  (실습4) 반지름으로 원의 면적과 둘레를 구하는 함수.c
-C:\Users\user\source\repos\CPL\CPL ch11\CPL ch11\(실습4) 반지름으로 원의 면적과 둘레를 구하는 함수.c(16): warning C4716: 'printCircle': 값을 반환해야 합니다.
-  CPL ch11.vcxproj -> C:\Users\user\source\repos\CPL\CPL ch11\x64\Debug\CPL ch11.exe
